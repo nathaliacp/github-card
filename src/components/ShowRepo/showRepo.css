@@ -1,0 +1,9 @@
+img{
+    width: 150px;
+}
+
+.repoInfos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
